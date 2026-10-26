@@ -56,6 +56,16 @@ I started programming in **2016** and began working professionally in **2019**. 
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohrabtayefi&bg_color=0D1117&color=FFFFFF&line=00CDA5&point=FFFFFF&area=true&hide_border=true&title_color=00CDA5" alt="Activity graph" />
 </p>
 
+## 🕹️ My GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
+  </picture>
+</p>
+
 > **Note:** Public stat cards primarily reflect **public repositories and public activity**. Some of my production work and client projects are proprietary, so GitHub stats represent only part of my work.
 
 ---
