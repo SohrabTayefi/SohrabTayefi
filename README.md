@@ -52,19 +52,36 @@ I started programming in **2016** and began working professionally in **2019**. 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohrabtayefi&layout=compact&theme=github_dark&hide_border=true&title_color=00CDA5&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top languages" />
 </p>
 
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohrabtayefi&bg_color=0D1117&color=FFFFFF&line=00CDA5&point=FFFFFF&area=true&hide_border=true&title_color=00CDA5" alt="Activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sohrabtayefi"
+    alt="Sohrab Tayefi GitHub Activity Graph"
+    width="95%"
+  />
 </p>
+
 
 ## 🕹️ My GitHub Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sohrabtayefi/sohrabtayefi/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sohrabtayefi/sohrabtayefi/output/github-snake.svg"
+    />
+    <img
+      alt="Sohrab Tayefi's GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/sohrabtayefi/sohrabtayefi/output/github-snake.svg"
+      width="100%"
+    />
   </picture>
 </p>
+
 
 > **Note:** Public stat cards primarily reflect **public repositories and public activity**. Some of my production work and client projects are proprietary, so GitHub stats represent only part of my work.
 
