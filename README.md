@@ -53,13 +53,16 @@ I started programming in **2016** and began working professionally in **2019**. 
 </p>
 
 
+## 📈 GitHub Contribution Overview
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sohrabtayefi"
-    alt="Sohrab Tayefi GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohrabtayefi&amp;theme=github_dark&amp;chart_color=00CDA5&amp;title_color=00CDA5&amp;bg_color=0D1117"
     width="95%"
+    alt="Sohrab Tayefi GitHub Contribution Overview"
   />
 </p>
+
 
 
 ## 🕹️ My GitHub Contribution Snake
@@ -142,6 +145,25 @@ I enjoy **Dota 2**, **Counter-Strike**, coffee, reading, movies, outdoor experie
   <a href="https://www.instagram.com/sohrabtayefi/">📸 Instagram</a>
 </p>
 
+
+<!-- BRAND FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CDA5,100:050505&height=120&section=footer" alt="footer" />
+  <sub>✦ SOHRAB TAYEFI ✦</sub>
+</p>
+
+<p align="center">
+  <strong>Turning Ideas into Reality</strong>
+</p>
+
+<p align="center">
+  <em>Built with Code, Curiosity &amp; AI</em>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00CDA5,50:103B37,100:050505&amp;height=135&amp;section=footer&amp;text=Keep%20Building.%20Keep%20Learning.&amp;fontSize=19&amp;fontColor=FFFFFF&amp;fontAlignY=73&amp;animation=fadeIn"
+    width="100%"
+    alt="Keep Building. Keep Learning."
+  />
 </p>
